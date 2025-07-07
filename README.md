@@ -30,7 +30,7 @@
 - 기상 데이터, 위성 이미지 시각화 및 관리자 시스템 개발
 
 ### 오픈소스 프로젝트
-- **[Cactbot](https://github.com/quisquous/cactbot) (2019~2021):** ACT 오버레이 플러그인, 한국어 i18n, 릴리즈 관리, MAU 30,000+
+- **[Cactbot](https://github.com/Jaehyuk-Lee/cactbot) (2019~2021):** ACT 오버레이 플러그인, 한국어 i18n, 릴리즈 관리, MAU 30,000+
 - **[DFAssist](https://github.com/Jaehyuk-Lee/DFAssist) (2017~2019):** 게임 매칭 도우미, 글로벌 서버 호환, 다국어 지원, MAU 2,000+
 
 ### 주요 프로젝트
