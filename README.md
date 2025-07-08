@@ -4,26 +4,30 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Infra/DevOps:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) (VPC, ECS, Fargate, ALB, CloudFront, Lambda, RDS) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**Database:** ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Tibero](https://img.shields.io/badge/Tibero-FF6B35?style=flat)
-
-**Data Visualization:** ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
-
----
-
 ## 💡 About Me
 
 - 다양한 프로젝트와 실무 경험을 쌓은 **백엔드 개발자**입니다.
 - Java와 Spring을 중심으로, Node.js 등 다양한 백엔드 환경을 경험했습니다.
 - **적극적인 참여와 소통을 통해 팀의 신뢰를 쌓고, 함께 성장하는 문화를 중요하게 생각합니다.**
 - 효율적인 데이터 서빙, 대용량 트래픽 환경에 관심이 많습니다.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-e91616?style=flat) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3&logoColor=white)
+
+### Infra/DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat) ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat&) ![ECS](https://img.shields.io/badge/ECS-232F3E?style=flat&) ![Fargate](https://img.shields.io/badge/Fargate-232F3E?style=flat&) ![ALB](https://img.shields.io/badge/ALB-232F3E?style=flat&) ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat&) ![Lambda](https://img.shields.io/badge/Lambda-232F3E?style=flat) ![RDS](https://img.shields.io/badge/RDS-232F3E?style=flat)
+
+### Database
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat) ![Tibero](https://img.shields.io/badge/Tibero-FF6B35?style=flat)
 
 ---
 
