@@ -6,11 +6,15 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Java (Spring Boot), Node.js
-- **Frontend:** React.js, Vue.js, JavaScript
-- **Infra/DevOps:** AWS (VPC, ECS, Fargate, ALB, CloudFront, Lambda, RDS), Docker, Linux, Github Actions
-- **Database:** MariaDB, MongoDB, Oracle, Tibero
-- **Data Visualization:** D3.js
+**Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+
+**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Infra/DevOps:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) (VPC, ECS, Fargate, ALB, CloudFront, Lambda, RDS) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Database:** ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Tibero](https://img.shields.io/badge/Tibero-FF6B35?style=flat)
+
+**Data Visualization:** ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
 
 ---
 
@@ -39,7 +43,7 @@
 |-|-|-|-|
 | [케어매칭](https://github.com/Jaehyuk-Lee/carematching-backend) | 2025.02~2025.03 | Backend/Frontend, AWS Architect | 요양사 구인 플랫폼, AWS 인프라, CI/CD, JWT 인증 |
 | [자취부동산](https://github.com/Jaehyuk-Lee/JachuiPlan) | 2024.12~2025.01 | Backend/Frontend | 자체 DB 구축, 전월세 통계, 커뮤니티, 데이터 시각화 |
-| 유사태풍검색 | 2019.02~2019.08 | Front+Backend | 태풍 데이터 비교, SPA, D3.js 시각화 |
+| [유사태풍검색](https://windowsce0728.notion.site/225dcaef14098093aabacc2aa9dad5ef) | 2019.02~2019.08 | Front+Backend | 태풍 데이터 비교, SPA, D3.js 시각화 |
 | AMOS 실황 | 2018.04~2019.02 | Front+Backend | AMOS(항공 기상 관측 시스템) 데이터 API, Vue.js, MongoDB |
 
 ---
