@@ -4,22 +4,30 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Backend:** Java (Spring Boot), Node.js
-- **Frontend:** React.js, Vue.js, JavaScript
-- **Infra/DevOps:** AWS (VPC, ECS, Fargate, ALB, CloudFront, Lambda, RDS), Docker, Linux, Github Actions
-- **Database:** MariaDB, MongoDB, Oracle, Tibero
-- **Data Visualization:** D3.js
-
----
-
 ## 💡 About Me
 
 - 다양한 프로젝트와 실무 경험을 쌓은 **백엔드 개발자**입니다.
 - Java와 Spring을 중심으로, Node.js 등 다양한 백엔드 환경을 경험했습니다.
 - **적극적인 참여와 소통을 통해 팀의 신뢰를 쌓고, 함께 성장하는 문화를 중요하게 생각합니다.**
 - 효율적인 데이터 서빙, 대용량 트래픽 환경에 관심이 많습니다.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-e91616) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3&logoColor=white)
+
+### Infra/DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E) ![VPC](https://img.shields.io/badge/VPC-232F3E) ![EC2](https://img.shields.io/badge/EC2-232F3E) ![ECS](https://img.shields.io/badge/ECS-232F3E) ![Fargate](https://img.shields.io/badge/Fargate-232F3E) ![RDS](https://img.shields.io/badge/RDS-232F3E) ![ALB](https://img.shields.io/badge/ALB-232F3E) ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E) ![Lambda](https://img.shields.io/badge/Lambda-232F3E) ![EventBridge](https://img.shields.io/badge/EventBridge-232F3E)
+
+### Database
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000) ![Tibero](https://img.shields.io/badge/Tibero-FF6B35)
 
 ---
 
@@ -39,8 +47,8 @@
 |-|-|-|-|
 | [케어매칭](https://github.com/Jaehyuk-Lee/carematching-backend) | 2025.02~2025.03 | Backend/Frontend, AWS Architect | 요양사 구인 플랫폼, AWS 인프라, CI/CD, JWT 인증 |
 | [자취부동산](https://github.com/Jaehyuk-Lee/JachuiPlan) | 2024.12~2025.01 | Backend/Frontend | 자체 DB 구축, 전월세 통계, 커뮤니티, 데이터 시각화 |
-| 유사태풍검색 | 2019.02~2019.08 | Front+Backend | 태풍 데이터 비교, SPA, D3.js 시각화 |
-| AMOS 실황 | 2018.04~2019.02 | Front+Backend | AMOS(항공 기상 관측 시스템) 데이터 API, Vue.js, MongoDB |
+| [태풍 조회](https://windowsce0728.notion.site/225dcaef14098093aabacc2aa9dad5ef) | 2019.02~2019.08 | Front+Backend | 태풍 데이터 비교, Vue.js, 데이터 시각화 |
+| AMOS 실황 | 2018.04~2019.02 | Front+Backend | AMOS(항공 기상 관측 시스템) 데이터 API, Vue.js |
 
 ---
 
