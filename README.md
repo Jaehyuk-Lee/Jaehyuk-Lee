@@ -48,7 +48,7 @@
 | [케어매칭](https://github.com/Jaehyuk-Lee/carematching-backend) | 2025.02~2025.03 | Backend/Frontend, AWS Architect | 요양사 구인 플랫폼, AWS 인프라, CI/CD, JWT 인증 |
 | [자취부동산](https://github.com/Jaehyuk-Lee/JachuiPlan) | 2024.12~2025.01 | Backend/Frontend | 자체 DB 구축, 전월세 통계, 커뮤니티, 데이터 시각화 |
 | [태풍 조회](https://windowsce0728.notion.site/225dcaef14098093aabacc2aa9dad5ef) | 2019.02~2019.08 | Front+Backend | 태풍 데이터 비교, SPA, D3.js 시각화 |
-| AMOS 실황 | 2018.04~2019.02 | Front+Backend | AMOS(항공 기상 관측 시스템) 데이터 API, Vue.js, MongoDB |
+| AMOS 실황 | 2018.04~2019.02 | Front+Backend | AMOS(항공 기상 관측 시스템) 데이터 API, Vue.js |
 
 ---
 
