@@ -1,81 +1,71 @@
-# 👋 Hi, I'm Jaehyuk Lee (이재혁)
+# 안녕하세요, '시너지'를 통해 더 나은 시스템을 만드는 개발자 이재혁입니다.
+**Backend Engineer who understands the Full-Stack Ecosystem (Infra, Frontend)**
 
-**Backend Engineer | Java, Spring, Node.js, AWS**
-
----
-
-## 💡 About Me
-
-- 다양한 프로젝트와 실무 경험을 쌓은 **백엔드 개발자**입니다.
-- Java와 Spring을 중심으로, Node.js 등 다양한 백엔드 환경을 경험했습니다.
-- **적극적인 참여와 소통을 통해 팀의 신뢰를 쌓고, 함께 성장하는 문화를 중요하게 생각합니다.**
-- 효율적인 데이터 서빙, 대용량 트래픽 환경에 관심이 많습니다.
+[![Resume](https://img.shields.io/badge/Resume-black?style=flat-square&logo=notion)](https://windowsce0728.notion.site/246dcaef14098044ae26d31af7f57120?source=copy_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=notion)](https://windowsce0728.oopy.io/)
+[![Blog](https://img.shields.io/badge/Blog-Tistory-red?style=flat-square&logo=)](https://alex00728.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-windowsce0728@gmail.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:windowsce0728@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 My Story: A Journey to Synergy
 
-### Backend
-![Java](https://img.shields.io/badge/Java-e91616) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
+저의 개발자로서의 여정은 **'어떻게 하면 더 큰 시너지를 낼 수 있을까'** 라는 질문과 함께 시작되었습니다. 디미고 시절 아두이노 컨트롤러로 하드웨어와 소프트웨어의 시너지를 경험했고, 이 가능성을 탐구하고자 전자공학에 도전했습니다. 
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3&logoColor=white)
+제게 개발의 방향성을 제시해 준 것은 **공군에서 실제 사용자와 소통했던 경험**입니다. 사용자의 피드백이 코드의 개선으로, 코드의 개선이 다시 사용자의 만족으로 이어지는 **개선의 선순환**을 직접 경험하며 '진짜 문제를 해결하는 개발'의 가치를 깨달았습니다.
 
-### Infra/DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E) ![VPC](https://img.shields.io/badge/VPC-232F3E) ![EC2](https://img.shields.io/badge/EC2-232F3E) ![ECS](https://img.shields.io/badge/ECS-232F3E) ![Fargate](https://img.shields.io/badge/Fargate-232F3E) ![RDS](https://img.shields.io/badge/RDS-232F3E) ![ALB](https://img.shields.io/badge/ALB-232F3E) ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E) ![Lambda](https://img.shields.io/badge/Lambda-232F3E) ![EventBridge](https://img.shields.io/badge/EventBridge-232F3E)
-
-### Database
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000) ![Tibero](https://img.shields.io/badge/Tibero-FF6B35)
+이 경험은 백엔드, 프론트엔드, 인프라가 유기적으로 연결된 시스템 전체의 관점에서 최적의 솔루션을 찾아야 한다는 확신을 주었고, 소프트웨어 개발에 온전히 집중하는 현재의 저를 만들었습니다.
 
 ---
 
-## 🏆 Experience
+### 🚀 Key Projects
 
-### 공군기상단 기상체계개발실 (2018~2019)
-- 웹서비스 개발 및 유지보수
-- 기상 데이터, 위성 이미지 시각화 및 관리자 시스템 개발
+<details>
+<summary><strong>✅ 케어매칭 - 요양사 매칭 플랫폼 (PL / Backend / Infra)</strong>
+<p align="right"><a href="https://windowsce0728.oopy.io/#1cfdcaef1409800ab021ec0056579193">포트폴리오에서 자세히 보기 &rarr;</a></p></summary>
 
-### 오픈소스 프로젝트
-- **[Cactbot](https://github.com/Jaehyuk-Lee/cactbot) (2019~2021):** ACT 오버레이 플러그인, 한국어 i18n, 릴리즈 관리, MAU 30,000+
-- **[DFAssist](https://github.com/Jaehyuk-Lee/DFAssist) (2017~2019):** 게임 매칭 도우미, 글로벌 서버 호환, 다국어 지원, MAU 2,000+
+- **견고한 결제 시스템 설계:** 외부 API 장애 시에도 매출 손실을 막기 위해 재시도 로직, 서킷 브레이커 등을 도입하여 시스템 안정성을 확보했습니다.
+- **확장성 높은 인프라 구축:** AWS ECS/Fargate 기반의 무중단 CI/CD 환경을 구축하고, 부하 테스트를 통해 백엔드 분당 6,000 요청 처리 성능을 검증했습니다.
+- **주도적인 팀워크:** PL(Project Lead)로서, 팀원의 코드에서 보안 취약점을 먼저 발견하고 해결책을 제안하여 서비스 전체의 보안성을 강화했습니다.
+</details>
 
-### 주요 프로젝트
+<details>
+<summary><strong>✅ 자취부동산 - 1인 가구 통계 서비스 (Backend / Frontend)</strong>
+<p align="right"><a href="https://windowsce0728.oopy.io/#1cfdcaef14098005b828e1c01c368590">포트폴리오에서 자세히 보기 &rarr;</a></p></summary>
 
-| 프로젝트명 | 기간 | 역할 | 주요 내용 |
-|-|-|-|-|
-| [케어매칭](https://github.com/Jaehyuk-Lee/carematching-backend) | 2025.02~2025.03 | Backend/Frontend, AWS Architect | 요양사 구인 플랫폼, AWS 인프라, CI/CD, JWT 인증 |
-| [자취부동산](https://github.com/Jaehyuk-Lee/JachuiPlan) | 2024.12~2025.01 | Backend/Frontend | 자체 DB 구축, 전월세 통계, 커뮤니티, 데이터 시각화 |
-| [태풍 조회](https://windowsce0728.notion.site/225dcaef14098093aabacc2aa9dad5ef) | 2019.02~2019.08 | Front+Backend | 태풍 데이터 비교, Vue.js, 데이터 시각화 |
-| AMOS 실황 | 2018.04~2019.02 | Front+Backend | AMOS(항공 기상 관측 시스템) 데이터 API, Vue.js |
+- **데이터 파이프라인 구축:** 일일 요청 횟수가 제한된 Open API의 한계를 극복하기 위해, 데이터 파이프라인을 직접 구축하고 성능을 2.2배 개선하여 문제를 해결했습니다.
+- **백엔드 성능 최적화:** 어플리케이션 로직을 DB 쿼리로 이전하여 데이터 조회 쿼리 횟수를 12배 감소시키는 등 시스템의 효율성을 개선했습니다.
+- **프로세스 개선:** 과거 프로젝트의 소통 문제를 교훈 삼아, 적극적인 회의와 명확한 우선순위 설정을 통해 프로젝트 관리 방식을 개선하고 일정 내에 완성도 높은 제품을 개발했습니다.
+</details>
 
----
+<details>
+<summary><strong>✅ Cactbot (오픈소스) - 게임 애드온 (MAU 30,000+)</strong>
+<p align="right"><a href="https://windowsce0728.notion.site/Cactbot-236dcaef14098165a937c7a07ad2c149">포트폴리오에서 자세히 보기 &rarr;</a></p></summary>
 
-## 🌱 What I Value
-
-- **적극적인 팀 참여와 신뢰:** 팀원들과의 활발한 소통, 피드백 공유, 문제 해결 과정에서의 주도적 역할을 통해 신뢰받는 팀원이 되기 위해 노력합니다.
-- **지속적인 성장:** Java 멀티스레드, Spring, Node.js 등 다양한 기술 학습 및 정리
-- **팀워크와 코드 품질:** 코드 리뷰, 리팩토링, 모듈화 경험
-- **인프라 경험:** AWS 아키텍처 설계, 무중단 배포, 비용 최적화
-
----
-
-## 📈 Stats & Highlights
-
-- Cactbot 오픈소스 PR 130회 이상, 상위 10위 Contributor
-- 개인 프로젝트 MAU 2,000+ 달성
-- AWS 기반 CI/CD 및 자동화 배포 경험
-- CloudFront 캐시 적용으로 throughput 100배 향상 경험
+- **글로벌 협업 및 릴리즈 관리:** 130회 이상의 PR을 통해 한국어 버전 릴리즈를 담당하며, 다국적 메인테이너들과 영어로 소통하고 Git 기반의 실전 협업 프로세스를 체득했습니다.
+- **'좋은 설명'의 중요성:** 제안된 변경 사항의 필요성을 명확한 근거(스크린샷, 테스트)로 설득하는 과정을 통해, 좋은 코드만큼 좋은 설명의 중요성을 배웠습니다.
+</details>
 
 ---
 
-## 📫 Contact
+### 🛠️ Tech Stack
 
-- **Email:** alex00728@outlook.com
-- **Phone:** 010-8681-0728
-- **GitHub:** [Jaehyuk-Lee](https://github.com/Jaehyuk-Lee)
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+**Database**
+<br>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+**Infra & DevOps**
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white">
 
 ---
 
-> “적극적인 참여와 신뢰를 바탕으로 팀과 함께 성장하는 개발자, 이재혁입니다.”
+> 저의 모든 경험과 고민이, 합류하게 될 팀의 시스템을 더 안정적이고 효율적으로 만드는 데 기여할 것이라 확신합니다.
