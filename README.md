@@ -1,4 +1,4 @@
-# 안녕하세요, '시너지'를 통해 더 나은 시스템을 만드는 개발자 이재혁입니다.
+# Hello, '시너지'를 통해 더 나은 시스템을 만드는 개발자 이재혁입니다.
 **Backend Engineer who understands the Full-Stack Ecosystem (Infra, Frontend)**
 
 [![Resume](https://img.shields.io/badge/Resume-black?style=flat-square&logo=notion)](https://windowsce0728.notion.site/246dcaef14098044ae26d31af7f57120?source=copy_link)
